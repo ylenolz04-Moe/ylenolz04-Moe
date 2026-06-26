@@ -9,21 +9,40 @@
 ### 🧑‍💻 关于我 | About Me
 
 - 🎮 热爱 **Unity 2D 游戏开发**，正在制作像素风平台跳跃游戏
+- 🤖 对 **AI 应用开发** 充满热情，折腾各种 AI 工具与集成
+- 🌐 具备 **前后端全栈** 能力，能独立完成完整应用
 - 📖 坚持 **每日脚本学习** (C# 每日一练)
 - 🎨 像素艺术爱好者，追求流畅的游戏手感
-- 🌱 正在学习：设计模式、游戏架构、Shader 编程
+- 🌱 正在学习：设计模式 · 游戏架构 · Shader · AI Agent
 - 💬 新手新手新手！求大佬们关爱
 
 ---
 
 ### 🛠️ 技术栈 | Tech Stack
 
+#### 🎮 游戏开发 | Game Dev
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+#### 🌐 前后端 | Full-Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 🛠️ 工具链 | Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -45,14 +64,18 @@
 
 <p align="center">
   <a href="https://github.com/ylenolz04-Moe/I-am-herogame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ylenolz04-Moe&repo=I-am-herogame&theme=tokyonight&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ylenolz04-Moe&repo=I-am-herogame&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ylenolz04-Moe/trueai">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ylenolz04-Moe&repo=trueai&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 | 项目 | 描述 | 技术 |
 |------|------|------|
-| 🦸 [**I Am Hero (Remake)**](https://github.com/ylenolz04-Moe/I-am-herogame) | 像素风 2D 横版平台跳跃游戏 | Unity, C# |
-| 📝 每日脚本学习 | C# 设计模式、算法、Unity 技巧每日一练 | C#, Unity |
+| 🦸 [**I Am Hero**](https://github.com/ylenolz04-Moe/I-am-herogame) | 像素风 2D 横版平台跳跃游戏 Remake | Unity · C# · Pixel Art |
+| 🤖 [**trueai**](https://github.com/ylenolz04-Moe/trueai) | AI 应用探索项目 | AI · LLM · Full-Stack |
+| 📝 每日脚本学习 | C# 设计模式、算法、Unity 技巧每日一练 | C# · Unity |
 
 ---
 
@@ -66,6 +89,14 @@
 
 
 
+### 🏆 GitHub 奖杯 | Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ylenolz04-Moe&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+</div>
+
+---
+
 ### 🎵 彩蛋 | Fun Corner
 
 <div align="center">
@@ -74,6 +105,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ylenolz04-Moe&label=👀+Profile+Views&color=58a6ff&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ylenolz04-Moe?label=Followers&style=social" />
 </p>
 
 ---
@@ -92,5 +124,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/ylenolz04-Moe">ylenolz04-Moe</a> — 每天都在变得更好！</i>
+  <i>⭐️ From <a href="https://github.com/ylenolz04-Moe">ylenolz04-Moe</a> — 游戏开发 × AI 探索 × 全栈折腾，每天进步一点点！</i>
 </p>
