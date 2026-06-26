@@ -8,11 +8,10 @@
 
 ### 🧑‍💻 关于我 | About Me
 
-- 🎮 热爱 **Unity 2D 游戏开发**，正在制作像素风平台跳跃游戏
+- 🎮 热爱 **Unity**
 - 🤖 对 **AI 应用开发** 充满热情，折腾各种 AI 工具与集成
-- 🌐 具备 **前后端全栈** 能力，能独立完成完整应用
+- 🌐 具备 （一定）**前后端全栈** 能力
 - 📖 坚持 **每日脚本学习** (C# 每日一练)
-- 🎨 像素艺术爱好者，追求流畅的游戏手感
 - 🌱 正在学习：设计模式 · 游戏架构 · Shader · AI Agent
 - 💬 新手新手新手！求大佬们关爱
 
@@ -60,16 +59,7 @@
 
 ---
 
-### 🎯 精选项目 | Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ylenolz04-Moe/I-am-herogame">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ylenolz04-Moe&repo=I-am-herogame&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ylenolz04-Moe/trueai">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ylenolz04-Moe&repo=trueai&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 | 项目 | 描述 | 技术 |
 |------|------|------|
@@ -89,13 +79,6 @@
 
 
 
-### 🏆 GitHub 奖杯 | Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ylenolz04-Moe&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
-</div>
-
----
 
 ### 🎵 彩蛋 | Fun Corner
 
