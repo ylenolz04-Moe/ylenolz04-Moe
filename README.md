@@ -64,13 +64,7 @@
 
 ---
 
-### 🏆 GitHub 奖杯 | Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ylenolz04-Moe&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
-</div>
-
----
 
 ### 🎵 彩蛋 | Fun Corner
 
