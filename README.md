@@ -69,13 +69,6 @@
 
 ---
 
-### 📈 贡献热力图 | Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ylenolz04-Moe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
-</div>
-
----
 
 
 
